@@ -64,6 +64,14 @@ ViXtRiA-Systemは個人一般が一人でサーバを維持保守しているサ
 	　　Windowsユーザーはexeによる簡単インストール、
 	　　Macユーザーはzipを用いた手動でのプロファイルインポート操作が必要です
 
+	・一部のVirtual Desktopユーザーで音切れが発生する
+	　→Wi-Fiの実行速度が低い、あるいは安定しないユーザーさんにおいて、
+	　　視聴が困難なレベルの音切れが発生する問題があります。
+	　　これは本システムが最高の品質を提供するには
+	　　「映像 約5Mbps + 音声 約6Mbps=約11～12Mbps」という非常に高いビットレートで配信していることに起因します。
+	　　この問題は『映像を使わない』ことで回避可能であることは確認しております。
+
+
 ## ViXtRiA-System_Audio_Component
 
 ワールドへ導入するにあたって必要となる、システム推奨なAudioSourceの配置設定を組み込むためのUnityPackage資材です
@@ -76,14 +84,14 @@ ViXtRiA-Systemは個人一般が一人でサーバを維持保守しているサ
 	　→Questワールド用のUnityPackage及びprefabデータです
 	　　配信URL、AudioSourceの配置がPC版とは異なるため、注意が必要です
 	　　配信URLは「rtspt://vrc-spa-adk.v4.softether.net:8554/q★Sample★」形式となります
-		（）
 
 ## ViXtRiA-System_OBS_Profile
 
-ViXtRiA-Systemを提供している、ViXtRiAサーバへOBSを用いて配信を繋ぐために必要となる、
+ViXtRiA-Systemを提供している「ViXtRiA-Server」へOBSを用いて配信を繋ぐために必要となる「OBSプロファイル」を導入するための資材です
 
-「OBSプロファイル」を導入するための資材です
-	
+下記のReleaseよりダウンロードしてOBSへ導入してください
+
+https://github.com/Team-ViXtRiA/ViXtRiA-System_OBS_Profile/releases	
 
 
 ## ViXtRiA_Other_Contents
