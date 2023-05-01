@@ -96,3 +96,13 @@ https://github.com/Team-ViXtRiA/ViXtRiA-System_OBS_Profile/releases
 
 ## ViXtRiA_Other_Contents
 ViXtRiA-Systemの公式ロゴ、その他の配布物を公開します
+
+## ★ViXtRiA 利用予約カレンダー★
+
+下記のGoogleカレンダーよりシステムの利用予約をしてください。
+
+また、予定が重複する場合は「先行予約者を優先」を基本としつつ、
+
+当事者間で予定調整してください。
+
+https://calendar.google.com/calendar/u/6?cid=dnJjLnNwYUBnbWFpbC5jb20
