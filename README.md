@@ -105,8 +105,14 @@ ViXtRiA-Systemの公式ロゴ、その他の配布物を公開します
 
 当事者間で予定調整してください。
 
-###　システム利用 予約ページ
+.
+
+.
+
+**★システム利用 予約ページ★**
+
 https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3k4_TbNLPGOjPOs9iBTD8JerSWcYMDxOm56X9Tj38Jp4zK63L2VCkQlUDvaJ409Ngwg-bIHwyc
 
-###　システム利用 予定表
+**★システム利用 予定表★**
+
 https://calendar.google.com/calendar/u/6?cid=dnJjLnNwYUBnbWFpbC5jb20
